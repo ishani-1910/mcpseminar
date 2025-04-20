@@ -1,0 +1,2 @@
+# mcpseminar
+ai workshop
